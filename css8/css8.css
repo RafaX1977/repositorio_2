@@ -1,0 +1,24 @@
+.numeracion-letras{
+    list-style-type: lower-alpha;
+}
+.viñetas{list-style-image: -moz-repeating-linear-gradient();}
+
+
+body{font-family:Verdana, Geneva, Tahoma, sans-serif ;
+}
+
+body{font-size:medium;}
+body{background-color: rgb(172, 200, 201);}
+
+
+#titulo-principal{font-weight: 900;
+font-size: 20px;
+text-transform: uppercase;
+text-decoration: underline;
+text-align: center;
+background-color: aqua;
+color: black;
+letter-spacing: 4px;}
+
+
+

@@ -1,0 +1,13 @@
+
+
+datos de la empresa sucursal, rif, nombre_e
+
+datos de la factura
+código, fecha, hora, sucursal
+
+datos del cliente nombre_c, cedula
+
+datos del producto
+código, nombre_p y precio
+
+
